@@ -1,0 +1,11 @@
+E:\Doc\Razrabotka\Project\Laba1\bin\Debug\Laba1.exe.config
+E:\Doc\Razrabotka\Project\Laba1\bin\Debug\Laba1.exe
+E:\Doc\Razrabotka\Project\Laba1\bin\Debug\Laba1.pdb
+E:\Doc\Razrabotka\Project\Laba1\obj\Debug\Laba1.csproj.AssemblyReference.cache
+E:\Doc\Razrabotka\Project\Laba1\obj\Debug\Laba1.csproj.SuggestedBindingRedirects.cache
+E:\Doc\Razrabotka\Project\Laba1\obj\Debug\Laba1.Form1.resources
+E:\Doc\Razrabotka\Project\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+E:\Doc\Razrabotka\Project\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+E:\Doc\Razrabotka\Project\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+E:\Doc\Razrabotka\Project\Laba1\obj\Debug\Laba1.exe
+E:\Doc\Razrabotka\Project\Laba1\obj\Debug\Laba1.pdb
