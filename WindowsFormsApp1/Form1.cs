@@ -21,5 +21,15 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = "seregt";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "НЕТ! ТЕСТИРОВАНИЕ";
+        }
     }
 }
